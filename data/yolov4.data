@@ -2,4 +2,4 @@ classes = 1
 train = data/train_cf.txt
 valid = data/val_cf.txt
 names = data/classes.names
-backup = backup_cf
+backup = backup
