@@ -11,12 +11,12 @@ and cfg/yolov4_custom_test.cfg
 
 """
 
-classes=4
-max_batches=8000
-batch=64
+classes=1
+max_batches=2000
+batch=16
 subdivisions=16
-width=416
-height=416
+width=320
+height=224
 channels=3
 momentum=0.949
 decay=0.0005
